@@ -16,11 +16,11 @@ links:
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
     
     # FACEBOOK
-  - Name: Facebook
-    URL: https://www.facebook.com
-    Username: harsh98trivedi
-    Color: '#3b5998'
-    Icon-Class: fab fa-facebook
+  # - Name: Facebook
+  #   # URL: https://www.facebook.com
+  #   # Username: harsh98trivedi
+  #   # Color: '#3b5998'
+  #   # Icon-Class: fab fa-facebook
 
     # INSTAGRAM
   - Name: Instagram
@@ -32,7 +32,7 @@ links:
     # TWITTER
   - Name: Twitter
     URL: https://twitter.com
-    Username: Dr_Sins
+    Username: Dr__Sins
     Color: '#1DA1F2'
     Icon-Class: fab fa-twitter
 
@@ -65,11 +65,11 @@ links:
   #   Icon-Class: fab fa-github
 
     # EMAIL
-  # - Name: Email
-  #   URL: 'mailto:harshtrivedi@duck.com'
-  #   Icon-Class: fas fa-envelope
-  #   Color: '#e17055'
-  #   Text_Color: '#ffffff'
+  - Name: Email
+    URL: 'mailto:johnnythegreat@fuck.com'
+    Icon-Class: fas fa-envelope
+    Color: '#e17055'
+    Text_Color: '#ffffff'
 
   #   # TWITCH
   # - Name: Twitch
